@@ -1,0 +1,7 @@
+archive (1)/
+*.zip
+.ipynb_checkpoints/
+__pycache__/
+*.pth
+*.h5
+*.pt
